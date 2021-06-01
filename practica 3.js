@@ -1,7 +1,6 @@
-for (let numero= 0; numero < 20  ; numero++) {
-if (numero%2==0)
-   console.log("El número es par "+numero);
+for (let number= 0; number < 20  ; number++) {
+if (number%2==0) 
+   console.log("El número es par "+number);
 else
-    console.log("El número es impar "+numero);
- 
+    console.log("El número es impar "+number);
 }
